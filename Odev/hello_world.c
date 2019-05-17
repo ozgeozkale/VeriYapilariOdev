@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("Hello Halil !!!");
+	printf("Ozge Ozkale 040170015");
   return 1;
 }
